@@ -1,8 +1,8 @@
-# ML Concepts - Ignore Rules
+# ML Concepts 2 - Ignore Rules
 
 # Data Folder:
-Data/
-data/
+[dD]ata/
+images/
 
 # Data Docs:
 *.csv
@@ -11,8 +11,7 @@ data/
 Videos/
 
 # Docs Folder:
-Docs/
-docs/
+[dD]ocs/
 
 # Templates and solutions:
 Solutions/
